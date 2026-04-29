@@ -70,7 +70,7 @@ I am a Software Developer with over three years of experience building scalable,
   <a href="https://www.linkedin.com/in/dukundimana-clovis-8b8454315/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE@gmail.com">
+  <a href="mailto:dkndclovis3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
