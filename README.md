@@ -67,7 +67,7 @@ I am a Software Developer with over three years of experience building scalable,
 ### 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
+  <a href="https://www.linkedin.com/in/dukundimana-clovis-8b8454315/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR_EMAIL_HERE@gmail.com">
